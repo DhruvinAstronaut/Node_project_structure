@@ -1,0 +1,5 @@
+{
+    "CONN_ERR": "Connection failed",
+    "PASS_ERR": "Password not match.. Please re-enter the password",
+    "NULL_FIELD": "All fields are required"
+}
